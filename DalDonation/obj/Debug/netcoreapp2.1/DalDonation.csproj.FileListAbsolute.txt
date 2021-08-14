@@ -1,0 +1,12 @@
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\bin\Debug\netcoreapp2.1\DalDonation.deps.json
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\bin\Debug\netcoreapp2.1\DalDonation.dll
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\bin\Debug\netcoreapp2.1\DalDonation.pdb
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\obj\Debug\netcoreapp2.1\DalDonation.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\obj\Debug\netcoreapp2.1\DalDonation.AssemblyInfo.cs
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\obj\Debug\netcoreapp2.1\DalDonation.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\obj\Debug\netcoreapp2.1\DalDonation.dll
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\obj\Debug\netcoreapp2.1\DalDonation.pdb
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\bin\Debug\netcoreapp2.1\DalDonation.runtimeconfig.json
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\bin\Debug\netcoreapp2.1\DalDonation.runtimeconfig.dev.json
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\obj\Debug\netcoreapp2.1\DalDonation.genruntimeconfig.cache
+D:\Users\user\Desktop\Donation\DonationWebAPI\DalDonation\obj\Debug\netcoreapp2.1\DalDonation.csprojAssemblyReference.cache

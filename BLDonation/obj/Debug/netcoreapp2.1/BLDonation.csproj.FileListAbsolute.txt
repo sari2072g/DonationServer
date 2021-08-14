@@ -1,0 +1,12 @@
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\bin\Debug\netcoreapp2.1\BLDonation.deps.json
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\bin\Debug\netcoreapp2.1\BLDonation.dll
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\bin\Debug\netcoreapp2.1\BLDonation.pdb
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\obj\Debug\netcoreapp2.1\BLDonation.csprojAssemblyReference.cache
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\obj\Debug\netcoreapp2.1\BLDonation.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\obj\Debug\netcoreapp2.1\BLDonation.AssemblyInfo.cs
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\obj\Debug\netcoreapp2.1\BLDonation.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\obj\Debug\netcoreapp2.1\BLDonation.dll
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\obj\Debug\netcoreapp2.1\BLDonation.pdb
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\bin\Debug\netcoreapp2.1\DalDonation.dll
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\bin\Debug\netcoreapp2.1\DalDonation.pdb
+D:\Users\user\Desktop\Donation\DonationWebAPI\BLDonation\obj\Debug\netcoreapp2.1\BLDonation.csproj.CopyComplete
